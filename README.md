@@ -1,16 +1,18 @@
-## Hi there 👋
+# ¡Hola, soy Boris Vergara! 👋
 
-<!--
-**Boris0132/Boris0132** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 Sobre mí
+Soy egresado de la carrera de **Ingeniería de Software** y un apasionado por el aprendizaje constante de nuevas tecnologías. Me encanta explorar soluciones innovadoras y optimizar procesos a través de la tecnología.
 
-Here are some ideas to get you started:
+## 🛠️ Tecnologías en las que me destaco:
+- ☁️ **AWS Cloud** – Diseño y gestión de infraestructura en la nube.
+- 📊 **Análisis de datos** – Transformación de datos en información valiosa.
+- 📐 **Modelado de datos** – Estructuración y organización de datos para mejores insights.
+- 🗄️ **Bases de datos relacionales** – Administración y optimización de bases de datos.
+- 📈 **Dashboards con Power BI** – Creación de informes dinámicos para toma de decisiones.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🎓 Certificaciones
+- ✅ **Especialista en Excel** – Certificación oficial de Microsoft.
+- 🔜 **AWS Cloud Practitioner** – Preparándome para rendir el examen.
+
+## 📫 Conéctate conmigo
+Si quieres conversar sobre tecnología, proyectos o compartir ideas, ¡estaré encantado de conectar contigo!
