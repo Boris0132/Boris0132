@@ -1,18 +1,25 @@
 # ¡Hola, soy Boris Vergara! 👋
 
 ## 🚀 Sobre mí
-Soy egresado de la carrera de **Ingeniería de Software** y un apasionado por el aprendizaje constante de nuevas tecnologías. Me encanta explorar soluciones innovadoras y optimizar procesos a través de la tecnología.
+Soy un Profesional Técnico en **Desarrollo de Sistemas de Información** apasionado por la computación en la nube, la ingeniería de datos y el aprendizaje constante. Me especializo en diseñar soluciones innovadoras y optimizar procesos críticos mediante tecnología de vanguardia, con un enfoque actual en el sector bancario.
+
+## 💼 Experiencia Profesional
+### **Software Developer Analyst | BBVA (vía Neoris)**
+*Actualmente*
+* Desarrollo y mantenimiento de aplicaciones robustas utilizando Java.
+* Colaboración en proyectos tecnológicos para el sector financiero, asegurando escalabilidad y eficiencia en los procesos.
 
 ## 🛠️ Tecnologías en las que me destaco:
-- ☁️ **AWS Cloud** – Diseño y gestión de infraestructura en la nube.
-- 📊 **Análisis de datos** – Transformación de datos en información valiosa.
-- 📐 **Modelado de datos** – Estructuración y organización de datos para mejores insights.
-- 🗄️ **Bases de datos relacionales** – Administración y optimización de bases de datos.
-- 📈 **Dashboards con Power BI** – Creación de informes dinámicos para toma de decisiones.
+- ☁️ **AWS Cloud** – Diseño y gestión de infraestructura bajo el Well-Architected Framework.
+- ☕ **Desarrollo Backend** – Especialista en Java para aplicaciones empresariales.
+- 📊 **Data Engineering & AI** – Enfoque en la transformación de datos y especialización en modelos de Machine Learning.
+- 🗄️ **Bases de datos** – Administración, modelado y optimización de sistemas relacionales.
+- 📈 **Visualización de datos** – Creación de dashboards dinámicos en Power BI para la toma de decisiones.
 
-## 🎓 Certificaciones
-- ✅ **Especialista en Excel** – Certificación oficial de Microsoft.
-- 🔜 **AWS Cloud Practitioner** – Preparándome para rendir el examen.
+## 🎓 Certificaciones y Logros
+- ✅ **AWS Certified Cloud Practitioner** – Certificación oficial de Amazon Web Services.
+- 📚 **Autor Técnico** – Autor de guías especializadas sobre AWS y buenas prácticas en la nube.
+- ✅ **Microsoft Office Specialist** – Experto en análisis de datos con Excel.
 
 ## 📫 Conéctate conmigo
-Si quieres conversar sobre tecnología, proyectos o compartir ideas, ¡estaré encantado de conectar contigo!
+Si quieres conversar sobre arquitectura cloud, desarrollo de software o proyectos de datos, ¡estaré encantado de conectar contigo!
