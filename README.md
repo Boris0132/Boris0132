@@ -4,7 +4,7 @@
 Soy un Profesional Técnico en **Desarrollo de Sistemas de Información** apasionado por la computación en la nube, la ingeniería de datos y el aprendizaje constante. Me especializo en diseñar soluciones innovadoras y optimizar procesos críticos mediante tecnología de vanguardia, con un enfoque actual en el sector bancario.
 
 ## 💼 Experiencia Profesional
-### **Software Developer Analyst | BBVA (vía Neoris)**
+### **Junior Software Engineer | BBVA (vía EPAM)**
 *Actualmente*
 * Desarrollo y mantenimiento de aplicaciones robustas utilizando Java.
 * Colaboración en proyectos tecnológicos para el sector financiero, asegurando escalabilidad y eficiencia en los procesos.
